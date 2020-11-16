@@ -2,12 +2,12 @@
 ## Um repositório com diversos materiais relacionados à programação.
 
 ### Linguagens de Programação:
-* Javascript
-* PHP
-* Python
+* Javascript (Em andamento)
+* PHP (Em andamento)
+* Python (Em andamento)
 
 ### Linguagem de Banco:
-* MYSQL
+* MYSQL (Em andamento)
 
 ### Frameworks:
 * Em construção
