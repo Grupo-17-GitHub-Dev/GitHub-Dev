@@ -24,7 +24,7 @@
                 var today = new Date();             //<= Evento de data/hora na variável today
                 var hour = today.getHours();        //<= Pega a variável today,no formato de data/hora e pega a informação da hora
                 var minutes = today.getMinutes();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
-                var seconds = today.getSeconds();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
+                var seconds = today.getSeconds();   //<= Pega a variável today,no formato de data/hora e pega a informação de segundos
             let:
              Declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor. 
             const:
