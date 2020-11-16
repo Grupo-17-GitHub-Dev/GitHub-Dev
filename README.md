@@ -6,7 +6,7 @@
 * PHP (Em andamento)
 * Python (Em andamento)
 
-### Linguagem de Banco:
+### Linguagem de Banco de Dados:
 * MYSQL (Em andamento)
 
 ### Frameworks:
