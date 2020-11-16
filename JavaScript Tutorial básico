@@ -1,0 +1,83 @@
+/*
+        Pré requisitos:	Interação básica com o computador, entendimento básico de HTML e CSS.
+        Objetivo:	Se familiarizar com a linguagem, com o que ela pode fazer, e como tudo isso pode ser utilizado em um website.
+
+
+        JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc.
+        Um script feito em JS, pode ser comparado a uma receita ou guia, como se estivesse seguindo passos.
+
+        JavaScript pode ser inserido em uma página HTML via <script type="text/javascript"> "CONTEÚDO JS" </script> ou <script src="CAMINHO DO SCRIPT"></script>
+*/
+
+
+/*
+        Em javascript temos variáveis:
+            var:
+             Declara uma variável, opcionalmente, inicializando-a com um valor.
+             Exemplo 1: 
+                var nomevariavel = true;            //<= variável verdadeira        
+                var nomevariavel = 1;               //<= variável de valor numérico
+                var nomevariavel = false;           //<= variável de valor falso
+                var nomevariavel = 0;               //<= variável de valor numérico
+                var nomevariavel = "conteúdo";      //<= variável String
+            Exemplo 2:
+                var today = new Date();             //<= Evento de data/hora na variável today
+                var hour = today.getHours();        //<= Pega a variável today,no formato de data/hora e pega a informação da hora
+                var minutes = today.getMinutes();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
+                var seconds = today.getSeconds();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
+            let:
+             Declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor. 
+            const:
+              Declara uma constante de escopo de bloco, apenas de leitura.
+
+
+        
+
+*/
+
+/*
+        Podemos fazer que o script calcule uma conta:
+            Exemplo 1:
+                var numero1 = 1;
+                var numero2 = 4;
+                var conta;
+
+                conta = numero1 + numero2;
+
+                console.log(conta); //<= Aqui iremos mostrar o resultado no console
+
+            Exemplo 2:
+               
+               //!HTML!//
+               <html>
+                    <head>
+
+                    <head>
+
+                    <body>
+                        <p id="clock"></p>
+                    </body>
+
+                    <script src="global.js"></script> //<= pegando o arquivo global.js
+               </html>
+               
+               //!JS!//  => global.js <= 
+              
+              
+               function relogio(){                      //<= Abre uma função chamada relogio
+                    var today = new Date();             //<= Evento de data/hora na variável today
+                    var hour = today.getHours();        //<= Pega a variável today,no formato de data/hora e pega a informação da hora
+                    var minutes = today.getMinutes();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
+                    var seconds = today.getSeconds();   //<= Pega a variável today,no formato de data/hora e pega a informação de minutos
+                    var el;
+                    var refresh;
+
+                    el = document.getElementById('clock');             //<= pega o elemento do html que está atribuído ao ID 'clock'
+
+                    el.textContent = hour +":"+minutes+ ":" + seconds; //<= troca os valores que está atribuído ao ID 'clock'
+
+
+                    } 
+                    refresh=setInterval(relogio,1000);  //<= atualiza a função relogio a cada 1000 milissegundos    
+
+*/
