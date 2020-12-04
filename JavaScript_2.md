@@ -39,7 +39,7 @@
 <h3>Exemplo:</h3>
  <p>o seguinte laço <b>FOR</b> irá realizar o mesmo processo do <b>WHILE</b> exemplicado acima.
  <pre>
- for (var i = 0; i < 9; i++) {
+ for (var i = 0; i <= 3; i++) {
    console.log(i);
    
 }
