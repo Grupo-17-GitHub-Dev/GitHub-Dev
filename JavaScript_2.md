@@ -31,10 +31,10 @@
  <p>Variável criada antes</p>
  <pre>
  var i = 0;
- for (i; i < 9; i++) { 
-   console.log(i);
+    for (i; i < 9; i++) { 
+        console.log(i);
    
-}
+        }
 </pre>
 <h3>Exemplo:</h3>
  <p>o seguinte laço <b>FOR</b> irá realizar o mesmo processo do <b>WHILE</b> exemplicado acima.
