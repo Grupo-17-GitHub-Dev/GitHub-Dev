@@ -1,5 +1,5 @@
 
-<h1>JavaScript 2 </h1>
+<h1>JavaScript Básico 2 </h1>
 <p>Em javascript temos vários tipos de loopings, os mais usados geralmente são o <b>WHILE</b> / <b>FOR</b>.</p>
 
 <h2>WHILE:</h2>
@@ -37,7 +37,7 @@
 }
 </pre>
 <h3>Exemplo:</h3>
- <p>o seguinte laço for irá realizar o mesmo processo do while exemplicado acima.
+ <p>o seguinte laço <b>FOR</b> irá realizar o mesmo processo do <b>WHILE</b> exemplicado acima.
  <pre>
  for (var i = 0; i < 9; i++) {
    console.log(i);
