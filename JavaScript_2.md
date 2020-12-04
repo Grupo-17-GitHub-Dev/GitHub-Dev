@@ -16,7 +16,7 @@
     var x = 0;
       while (x <= 3) {
         console.log(x); // <- mostra o resultado do <b>X</b> no console.
-        n++; 
+        x++; 
       }
 </pre>
 <h2>FOR:</h2>
