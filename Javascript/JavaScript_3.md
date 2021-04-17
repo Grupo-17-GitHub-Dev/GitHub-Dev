@@ -4,13 +4,10 @@
   <h2>HTML</h2>
 
 <pre>
-
       <form onSubmit="return validate();">
           <input type="" id="name">
           <button type="submit">Enviar</button>
       </form>
-      <script src="teste.js"></script>
-
 </pre>
 
 <h2>JS</h2>
