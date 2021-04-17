@@ -2,7 +2,7 @@
   <p>Quando vamos validar qualquer campo no mundo da programação, o bom é sempre validar no back tanto no front.</p>
   <p>Nesse arquivo iremos aprender a validar inputs com JS</p>
   <h2>HTML</h2>
-<pre>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +19,7 @@
     <script src="teste.js"></script>
 </body>
 </html> 
-</pre>
+
 
 <h2>JS</h2>
 <p>O retorno após validação é escolha pessoal</p>
