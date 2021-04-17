@@ -3,12 +3,12 @@
   <p>Nesse arquivo iremos aprender a validar inputs com JS</p>
   <h2>HTML</h2>
 
-<pre>
+
 <form onSubmit="return validate();">
 <input type="" id="name">
 <button type="submit">Enviar</button>
 </form>
-</pre>
+
 
 <h2>JS</h2>
 <p>O retorno após validação é escolha pessoal</p>
