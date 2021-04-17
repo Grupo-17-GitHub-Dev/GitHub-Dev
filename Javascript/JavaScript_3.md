@@ -3,7 +3,7 @@
   <p>Nesse arquivo iremos aprender a validar inputs com JS</p>
   <h2>HTML</h2>
 <pre>
- <!DOCTYPE html>
+<!--  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +18,7 @@
     </form>
     <script src="teste.js"></script>
 </body>
-</html>
+</html> -->
 </pre>
 
 <h2>JS</h2>
