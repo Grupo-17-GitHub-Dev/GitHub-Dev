@@ -2,7 +2,9 @@
   <p>Quando vamos validar qualquer campo no mundo da programação, o bom é sempre validar no back tanto no front.</p>
   <p>Nesse arquivo iremos aprender a validar inputs com JS</p>
   <h2>HTML</h2>
-```
+  
+```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
