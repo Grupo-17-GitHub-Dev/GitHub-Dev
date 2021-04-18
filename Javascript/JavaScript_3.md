@@ -26,10 +26,14 @@
 
 <h2>JS</h2>
 <p>O retorno após validação é escolha pessoal</p>
-<pre>
+
+```js
+
 function validate() 
 {
     var validade = document.getElementById("name").value == "" ? console.log('Por favor, insira os dados em todos os campos corretamente') : console.log('Cadastrado com sucesso');
     return false;
 }
-</pre>
+
+```
+
