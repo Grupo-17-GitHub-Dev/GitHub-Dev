@@ -2,17 +2,17 @@
 ## Um repositório com diversos materiais relacionados à programação.
 
 ### Linguagens:
-* HTML e CSS (Em andamento)
+* HTML e CSS
 
 ### Linguagens de Programação:
-* Javascript (Em andamento)
-* PHP (Em andamento)
+* Javascript
+* PHP
 
 ### Linguagem de Banco de Dados:
-* MYSQL (Em andamento)
+* MYSQL (No Futuro)
 
 ### Frameworks:
-* Em construção
+* Laravel (No Futuro)
 
 ### Extras:
-* TI Verde (Em andamento)
+* TI Verde
